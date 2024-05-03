@@ -1,0 +1,137 @@
+*{
+    padding: 0;
+    margin:0;
+}
+.tank{
+    height:400px;
+    width: 300px;
+    border:1px solid black;
+    border-radius: 10px;
+    border-top: 1px solid white;
+    margin:30px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.water{
+    height: 400px;
+    width: 300px;
+    background-color:rgb(225, 255, 0);
+
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius:  10px;
+}
+.whole-container{
+    display: flex;
+    height:500px;
+}
+    
+.pipehorizontal{
+    width:100px;
+     height:20px;
+    margin-top: 400px;
+    margin-left: -30px;
+     background-color: brown;
+}
+.pipevertical{
+    height:80px;
+    width:20px;
+     margin-top: -5px;
+    margin-left: 70px;
+    background-color: brown;
+     
+}
+.red-button{
+    width:55px;
+    height:20px;
+    background-color:red;
+     margin-left: 50px;
+     margin-top: 385px;
+
+}
+.vertical{
+margin-top:-450px
+}
+.flowwater{
+    height:100px;
+    width:20px;
+    margin-left: 70px;
+    display:none;
+  
+}
+.whole{
+    display: flex;
+    flex-direction: row;
+}
+.water-tank{
+   border: 1px solid  black; 
+   width:1300px;
+   height:300px;
+   margin-left: 100px;
+   border-top: white;
+   
+}
+.tanks{
+    height:400px;
+    width: 300px;
+    border:1px solid black;
+    border-radius: 10px;
+    border-top: 1px solid white;
+    margin:30px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.waters{
+    height: 400px;
+    width: 300px;
+    background-color:rgb(225, 255, 0);
+
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius:  10px;
+}
+.whole-containers{
+    display: flex;
+     height:500px;
+}
+    
+.pipehorizontals{
+    width:100px;
+     height:20px;
+    margin-top: 400px;
+    margin-left: -30px;
+     background-color: brown;
+}
+.pipeverticals{
+    height:80px;
+    width:20px;
+     margin-top: -5px;
+    margin-left: 70px;
+    background-color: brown;
+     
+}
+.red-buttons{
+    width:55px;
+    height:20px;
+    background-color:red;
+     margin-left: 50px;
+     margin-top: 385px;
+
+}
+.verticals{
+margin-top:-450px
+}
+.flowwaters{
+    height:100px;
+    width:20px;
+    margin-left: 70px;
+    display:none;
+}
+.water-tank{
+    /* height: 400px; */
+    width: 1400px;
+    border: 1px solid black;
+    border-top: 1px solid white;
+}
+.wat{
+   height: 0px;
+   margin-top: 300px;
+}
